@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About me
 
-- ✨&nbsp; I’m currently learning HTML5&CSS3 and C++ .
+- ✨&nbsp; I’m currently learning HTML5&CSS3, C++ and JS.
 - 👨‍🎓&nbsp; I'm a student in VSCPI .
 - 👨‍💻&nbsp; I know the basics of C++, HTML5, CSS3, Excel, Word, PowerPoint, Python and Photoshop .
 - ⚡&nbsp; Fun fact: My favorite TV show is Prison Break .
