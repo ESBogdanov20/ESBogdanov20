@@ -43,7 +43,7 @@ Reach me: ESBogdanov20@codingburgasa.bg
   [![Microsoft Excel 2016](https://i.postimg.cc/CKPKF4t3/microsoft-office-specialist-excel-office-2016.png)](https://www.credly.com/badges/67dab529-3775-4992-a65f-7365a1b4d06a)
   [![HTML & CSS](https://i.postimg.cc/tT8C649D/mta-introduction-to-programming-using-html-and-css-certified-2021.png)](https://www.credly.com/badges/6423ad97-ae3f-4bb7-adfa-9ef204b47472)
   [![IT Specialist JavaScript](https://i.postimg.cc/2SYyTyhK/it-specialist-javascript.png)](https://www.credly.com/badges/c86f48ff-d790-417f-a0ce-c67786bdf857)
-  [![App Development with Swift](https://i.postimg.cc/g2GgHHQ1/image.png)](https://www.credly.com/badges/8b2736f9-ce4e-46f9-9873-291f9cb448e0)
+  [![App Development with Swift](https://i.postimg.cc/WpMmYJGV/image.png)](https://www.credly.com/badges/8b2736f9-ce4e-46f9-9873-291f9cb448e0)
   [![English for IT1](https://i.postimg.cc/tJVGGdQN/english-for-it-1.png)](https://www.credly.com/badges/8edbf084-d292-4323-a717-34c1cc6e80e2)
   [![English for IT2](https://i.postimg.cc/6TJJW7BJ/english-for-it-2.png)](https://www.credly.com/badges/cc33a81f-bd4e-4876-a2d5-2ab6f4d30b0a)
   [![JavaScript Essentials 1](https://i.postimg.cc/mgSDn4S2/javascript-essentials-1.png)](https://www.credly.com/badges/2a11f984-cef0-4a4b-b4d3-732dbfcc0105)
