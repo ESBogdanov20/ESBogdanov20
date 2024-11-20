@@ -39,26 +39,18 @@ Reach me: ESBogdanov20@codingburgasa.bg
 
   <br>
 
-  [![Microsoft Word 2016](https://i.po3/microsoft-office-specialist-excel-office-2016.png)](https://www.credly.com/badges/cc09d035-6d1a-4a04-9a2f-cbc98f2667f6)
+  [![Microsoft Word 2016](https://i.postimg.cc/QtFdVTZH/microsoft-office-specialist-word-office-2016.png)](https://www.credly.com/badges/cc09d035-6d1a-4a04-9a2f-cbc98f2667f6)
+  [![Microsoft Excel 2016](https://i.postimg.cc/CKPKF4t3/microsoft-office-specialist-excel-office-2016.png)](https://www.credly.com/badges/67dab529-3775-4992-a65f-7365a1b4d06a)
   [![HTML & CSS](https://i.postimg.cc/tT8C649D/mta-introduction-to-programming-using-html-and-css-certified-2021.png)](https://www.credly.com/badges/6423ad97-ae3f-4bb7-adfa-9ef204b47472)
-  [![IT Specialist JavaScript](https://i.postimg.cc/2SYyTyhK/it-spstimg.cc/QtFdVTZH/microsoft-office-specialist-word-office-2016.png)](https://www.credly.com/badges/c86f48ff-d790-417f-a0ce-c67786bdf857)
-  [![Microsoft Excel 2016](https://i.postimg.cc/CKPKF4tecialist-javascript.png)](https://www.credly.com/badges/67dab529-3775-4992-a65f-7365a1b4d06a)
-  [![IT Specialist Software Development](https://i.postimg.cc/mZPjbMgq/it-specialist-software-development.png)](https://www.credly.com/badges/11ca5258-dfea-4cd0-b842-7569161bdf23/public_url)
-  [![IT Specialist Databases](https://i.postimg.cc/MKWG70f3/it-specialist-databases.png)](https://www.credly.com/badges/efb0b551-a23d-4e15-b0a0-c3777df798e5/public_url)
-  [![English for IT1](https://i.postimg.cc/tJVGGdQN/english-for-it-1.png)](https://www.credly.com/badges/a06f33b7-cf77-4641-b69b-d891a57ca8b6/public_url)
-  [![English for IT2](https://i.postimg.cc/6TJJW7BJ/english-for-it-2.png)](https://www.credly.com/badges/c801581c-b9d7-46dd-bb4f-2c141651ad60/public_url)
-  [![JavaScript Essentials 1](https://i.postimg.cc/mgSDn4S2/javascript-essentials-1.png)](https://www.credly.com/badges/a8d9f017-f4ff-4dca-b490-030cc9748db5/public_url)
-  [![JavaScript Essentials 2](https://i.postimg.cc/Ls6XKWyk/javascript-essentials-2.png)](https://www.credly.com/badges/2d266865-b781-4f2f-aadf-68501db07806/public_url)
-  [![Introduction to Cybersecurity](https://i.postimg.cc/pVgphqTx/introduction-to-cybersecurity.png)](https://www.credly.com/badges/b23ee122-f4d3-44b1-be3e-1e52076e4c8e/public_url)
-  [![Cybersecurity Essentials](https://i.postimg.cc/jqWDSGRZ/cybersecurity-essentials.png)](https://www.credly.com/badges/38ab32cb-c243-4f31-9f13-5c5a452f1977/public_url)
-  [![Computer Hardware Basics](https://i.postimg.cc/zf0rCXFK/computer-hardware-basics.png)](https://www.credly.com/badges/a0126c87-9cf8-4261-a0ff-ceb05ad532a0/public_url)
-  [![Introduction to IoT](https://i.postimg.cc/wTL3hLyN/introduction-to-iot.png)](https://www.credly.com/badges/f3e760c9-1462-40b3-b8aa-157e30ea95dc/public_url)
-  [![Photoshop](https://i.postimg.cc/HLpm87XT/adobe-certified-professional-in-visual-design-using-adobe-photoshop.png)](https://www.credly.com/badges/2d6a4d9f-b67f-4251-a529-888228c5f1b5/public_url)
-  [![Illustrator](https://i.postimg.cc/g2yd0KwM/adobe-certified-professional-in-graphic-design-illustration-using-adobe-illustrator.png)](https://www.credly.com/badges/cde276d6-6ed9-47af-92b9-f7e033d37f45/public_url)
-  [![Premiere Pro](https://i.postimg.cc/W1cTjy4F/adobe-certified-professional-in-digital-video-using-adobe-premiere-pro.png)](https://www.credly.com/badges/d8df7524-57f3-4664-ac6f-0440ac4cf14e/public_url)
-  [![Visual Design](https://i.postimg.cc/XJP6PHhv/adobe-certified-professional-in-visual-design.png)](https://www.credly.com/badges/31ad5a85-e63e-4e6f-926c-87bc7f48d056/public_url)
-  [![Video Design](https://i.postimg.cc/26yf2R0J/adobe-certified-professional-in-video-design.png)](https://www.credly.com/badges/fd6e0b11-5e9b-4860-9f58-4d668dedd79f/public_url)
-  [![Learn-A-Thon 2023](https://i.postimg.cc/8cWkmg5G/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/f13444f5-8851-4052-b65e-2ee885a15825/public_url)
+  [![IT Specialist JavaScript](https://i.postimg.cc/2SYyTyhK/it-specialist-javascript.png)](https://www.credly.com/badges/c86f48ff-d790-417f-a0ce-c67786bdf857)
+  [![App Development with Swift](https://i.postimg.cc/g2GgHHQ1/image.png)](https://www.credly.com/badges/8b2736f9-ce4e-46f9-9873-291f9cb448e0)
+  [![English for IT1](https://i.postimg.cc/tJVGGdQN/english-for-it-1.png)](https://www.credly.com/badges/8edbf084-d292-4323-a717-34c1cc6e80e2)
+  [![English for IT2](https://i.postimg.cc/6TJJW7BJ/english-for-it-2.png)](https://www.credly.com/badges/cc33a81f-bd4e-4876-a2d5-2ab6f4d30b0a)
+  [![JavaScript Essentials 1](https://i.postimg.cc/mgSDn4S2/javascript-essentials-1.png)](https://www.credly.com/badges/2a11f984-cef0-4a4b-b4d3-732dbfcc0105)
+  [![Introduction to Cybersecurity](https://i.postimg.cc/pVgphqTx/introduction-to-cybersecurity.png)](https://www.credly.com/badges/752413a6-c3e4-4f38-a274-6e354eccfeb2)
+  [![Cybersecurity Essentials](https://i.postimg.cc/jqWDSGRZ/cybersecurity-essentials.png)](https://www.credly.com/badges/7b082c64-4687-4808-a853-1c704f711d9e)
+  [![Photoshop](https://i.postimg.cc/HLpm87XT/adobe-certified-professional-in-visual-design-using-adobe-photoshop.png)](https://www.credly.com/badges/dc3b2718-a8cf-47ae-bc1d-1d27e8f34a87)
+  [![Learn-A-Thon 2023](https://i.postimg.cc/8cWkmg5G/networking-academy-learn-a-thon-2023.png)](https://www.credly.com/badges/0825b09d-4a3f-40b3-bf18-6872393f62fd)
  
 </details>
 
